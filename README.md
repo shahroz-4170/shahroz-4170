@@ -14,7 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Master of Business Analytics** at **FAST-NUCES, Lahore** (2024 – 2026)
+- 🎓 **Master of Business Analytics (MSBA)** at **FAST-NUCES, Lahore** (2024 – 2026)
+- 🎓 **Bachelor of Business Administration (BBA)**  at **FAST-NUCES, CFD** (2019 – 2023)
 - 👨‍🏫 **Lab Instructor (IT in Business Lab)** at **FSM**: teaching business software and analytical tools
 - 🏏 Cricket lover, hackathon participant and education volunteer
 - 📫 Reach me at **m.shahroz4170@gmail.com**
