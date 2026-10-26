@@ -14,9 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing a **Master of Business Analytics** at **FAST-NUCES, Lahore** (2024 – 2026)
+- 🎓 **Master of Business Analytics** at **FAST-NUCES, Lahore** (2024 – 2026)
 - 👨‍🏫 **Lab Instructor (IT in Business Lab)** at **FSM**: teaching business software and analytical tools
-- 🔬 Currently working on **Blood Sugar Spike Prediction using ML & Deep Learning** (Master's FYP)
 - 🏏 Cricket lover, hackathon participant and education volunteer
 - 📫 Reach me at **m.shahroz4170@gmail.com**
 
