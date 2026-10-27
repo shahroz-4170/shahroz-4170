@@ -1,5 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1B2E,50:0F7B6C,100:2347D9&height=140&section=header&animation=fadeIn" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Muhammad Shahroz</h1>
 <h3 align="center">Business Analytics | Machine Learning | Deep Learning | Data Analysis</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0F9D84&center=true&vCenter=true&width=620&lines=BBA+%26+MSBA+%40+FAST-NUCES;Turning+Data+into+Decisions;Machine+Learning+%7C+Deep+Learning;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
@@ -68,7 +74,15 @@
 
 ---
 
+##  Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahroz-4170/shahroz-4170/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahroz-4170/shahroz-4170/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/shahroz-4170/shahroz-4170/output/github-snake.svg" />
+</picture>
+
+---
 
 ##  Certifications & Languages
 
@@ -78,3 +92,5 @@
 ---
 
 <p align="center">⭐ Thanks for visiting! Feel free to explore my repositories. ⭐</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2347D9,50:0F7B6C,100:0E1B2E&height=110&section=footer" width="100%" />
