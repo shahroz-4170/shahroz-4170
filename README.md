@@ -3,10 +3,6 @@
 
 <div align="center">
 
-# Muhammad Shahroz | Portfolio
-
-**Business Analytics · Machine Learning · Deep Learning · Data Analysis**
-
 [![Live Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-shahroz--4170.github.io%2Fportfolio-2347D9?style=for-the-badge)](https://shahroz-4170.github.io/portfolio/)
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-shahroz--4170-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahroz-4170)
