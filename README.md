@@ -16,13 +16,13 @@
 
 - 🎓 **Master of Business Analytics (MSBA)** at **FAST-NUCES, Lahore** (2024 – 2026)
 - 🎓 **Bachelor of Business Administration (BBA)**  at **FAST-NUCES, CFD** (2019 – 2023)
-- 👨‍🏫 **Lab Instructor (IT in Business Lab)** at **FSM**: teaching business software and analytical tools
+- 🧑‍💻 **Lab Instructor (IT in Business Lab)** at **FSM**: teaching business software and analytical tools
 - 🏏 Cricket lover, hackathon participant and education volunteer
 - 📫 Reach me at **m.shahroz4170@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
@@ -68,7 +68,7 @@
 
 
 
-## 🏆 Certifications & Languages
+##  Certifications & Languages
 
 - 📜 **Advanced Excel Certification**, Coursera
 - 🗣️ English (Professional) • Urdu (Native) • Punjabi (Native)
