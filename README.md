@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="mailto:m.shahroz4170@gmail.com"><img src="https://img.shields.io/badge/Email-m.shahroz4170%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img 🧑‍💻src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 **Master of Business Analytics (MSBA)** at **FAST-NUCES, Lahore** (2024 – 2026)
 - 🎓 **Bachelor of Business Administration (BBA)**  at **FAST-NUCES, CFD** (2019 – 2023)
