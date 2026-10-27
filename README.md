@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:m.shahroz4170@gmail.com"><img src="https://img.shields.io/badge/Email-m.shahroz4170%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![Live Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-shahroz--4170.github.io%2Fportfolio-2347D9?style=for-the-badge)](https://shahroz-4170.github.io/portfolio/)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-shahroz--4170-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahroz-4170)
+[![Email](https://img.shields.io/badge/Email-m.shahroz4170%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shahroz4170@gmail.com)
+![Location](https://img.shields.io/badge/Lahore-Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
   <img 🧑‍💻src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
