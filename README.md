@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahroz</h1>
 <h3 align="center">Business Analytics | Machine Learning | Deep Learning | Data Analysis</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Master's+in+Business+Analytics+%40+FAST-NUCES;Turning+Data+into+Decisions;ML+%7C+Deep+Learning+%7C+Power+BI" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  [![Live Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-shahroz--4170.github.io%2Fportfolio-2347D9?style=for-the-badge)](https://shahroz-4170.github.io/portfolio/)
+# Muhammad Shahroz | Portfolio
+
+**Business Analytics · Machine Learning · Deep Learning · Data Analysis**
+
+[![Live Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-shahroz--4170.github.io%2Fportfolio-2347D9?style=for-the-badge)](https://shahroz-4170.github.io/portfolio/)
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-shahroz--4170-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahroz-4170)
 [![Email](https://img.shields.io/badge/Email-m.shahroz4170%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shahroz4170@gmail.com)
 ![Location](https://img.shields.io/badge/Lahore-Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
-  <img 🧑‍💻src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+
+
+</div>
 
 ---
 
